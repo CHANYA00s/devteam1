@@ -1,3 +1,3 @@
-<php
+<?php
      echo "CHANYAPAT ARPORNHIRUN";
 ?>
